@@ -20,7 +20,7 @@ Frontend
 
 Database:
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongod](https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.120x120.png)b)
+![PostgreSQL](https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.120x120.png)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 Version Control:
