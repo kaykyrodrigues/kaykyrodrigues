@@ -2,7 +2,7 @@
 
 I'm Kayky Rodrigues, a Full-Stack Developer and a big technology enjoyer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kayky-rodrigues)](https://github.com/kayky-rodrigues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayky-rodrigues/)](https://www.linkedin.com/in/kayky-rodrigues/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nielitton)](https://github.com/kaykyrodrigues)
 
 ____
