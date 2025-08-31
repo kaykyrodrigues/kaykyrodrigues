@@ -2,6 +2,8 @@
 
 I'm Kayky Rodrigues, a Full-Stack Developer and a big technology enjoyer.
 
+🎓 Student of Analysis and Systems Development at <a href="https://www.instagram.com/unifanoroficial/">Unifanor Wyden</a>.
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayky-rodrigues/)](https://www.linkedin.com/in/kayky-rodrigues-6bab37354/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nielitton)](https://github.com/kaykyrodrigues)
 
