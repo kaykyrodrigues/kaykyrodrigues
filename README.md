@@ -22,7 +22,6 @@ Backend:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
 Database:
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 Version Control:
